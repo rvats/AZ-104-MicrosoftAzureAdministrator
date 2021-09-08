@@ -1,0 +1,4 @@
+The Azure Administrator Certification is for system administrators or for those looking to become system administrators with Azure/Microsoft workloads. The Azure administrator will demonstrate a person can manage and configure: devices, users, permissions, general computing, cloud storage and cloud networking. 
+This certification is generally referred to by its course code AZ-104.
+It is the natural path after the Azure Fundamentals AZ-900 and for those looking to obtain the Azure Solutions Architect AZ-303. 
+This is ideal for those who seek a cloud role that is more configuration-based than having to write computer code. 
